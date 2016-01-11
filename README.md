@@ -14,7 +14,7 @@ If you don't have [Zenhub][zenhub] installed, then you can view the unordered [M
 
 - **Milestones** are [Github Milestones][milestones] that are major releases that we can announce to our users.
 - **Projects** are [Github Issues][issues] that are individual project releases that lead to a **Milestone** release.
-- **Boards** are [Zenhub Boards][boards] that display the priority from left-to-right (milestones) and top-to-down (projects).
+- **Boards** are [Zenhub Boards][boards] that display the priority from left-to-right (**Milestones**) and top-to-down (**Projects**).
 
 ## Setup
 
