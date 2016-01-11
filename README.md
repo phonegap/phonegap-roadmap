@@ -22,8 +22,8 @@ Install the free [Zenhub Chrome Extension][zenhub] to view the milestones and is
 
 _We use Zenhub because Github does not support ordering of Github milestones or issues._
 
-[screenshot]: https://raw.githubusercontent.com/mwbrooks/phonegap-roadmap/master/screenshot.png
-[boards]: https://github.com/mwbrooks/phonegap-roadmap#boards
-[milestones]: https://github.com/mwbrooks/phonegap-roadmap/milestones
-[issues]: https://github.com/mwbrooks/phonegap-roadmap/issues
+[screenshot]: https://raw.githubusercontent.com/phonegap/phonegap-roadmap/master/screenshot.png
+[boards]: https://github.com/phonegap/phonegap-roadmap#boards
+[milestones]: https://github.com/phonegap/phonegap-roadmap/milestones
+[issues]: https://github.com/phonegap/phonegap-roadmap/issues
 [zenhub]: https://www.zenhub.io/
